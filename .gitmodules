@@ -1,3 +1,6 @@
 [submodule "code-gen-web"]
 	path = code-gen-web
 	url = git@github.com:SpectatorWjx/code-gen-web.git
+[submodule "code-gen-backend"]
+	path = code-gen-backend
+	url = git@github.com:SpectatorWjx/code-gen-backend.git
